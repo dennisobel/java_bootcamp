@@ -9,8 +9,8 @@ public class Main {
         final int xy = 3;
 
         // stack and heap
-        Person p = new Person();
-        Address a = new Address();
+//        Person p = new Person();
+//        Address a = new Address();
 
         // heap memory
     }

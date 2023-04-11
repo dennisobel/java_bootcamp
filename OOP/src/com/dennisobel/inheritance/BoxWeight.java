@@ -3,7 +3,7 @@ package com.dennisobel.inheritance;
 public class BoxWeight extends Box{
     double weight;
 
-    @Override
+//    @Override
     static void greeting () {
         System.out.println("Hey, I'm in box");
     }

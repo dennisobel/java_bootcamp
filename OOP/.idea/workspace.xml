@@ -5,43 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e1c7cb1-5fc4-4a92-b0ed-710963e9ad63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/AdvancedJavaProgramming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/src/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/src/GenericsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/src/VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/src/substitution_principle/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/src/substitution_principle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedJavaProgramming/src/substitution_principle/Office.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/inheritance/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/inheritance/BoxColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/inheritance/BoxPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/inheritance/BoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/introduction/WrapperExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/packages/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/packages/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/polymorphism/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/polymorphism/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/polymorphism/ObjectPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/polymorphism/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/polymorphism/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/polymorphism/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/stackheap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/staticexample/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/staticexample/InnerClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/staticexample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/staticexample/SingleTon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/staticexample/StaticInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/abstractdemo/Daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/abstractdemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/abstractdemo/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/abstractdemo/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/access/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/access/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/generics/CustomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/generics/GenericArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/Brake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/CDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/NiceCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/PowerEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/extendDemo/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/extendDemo/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/extendDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/extendDemo2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/extendDemo2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/extendDemo2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/nested/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dennisobel/interfaces/nested/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/src/main/java/dev/dennisobel/movies/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/src/main/java/dev/dennisobel/movies/MovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/src/main/java/dev/dennisobel/movies/MovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/src/main/java/dev/dennisobel/movies/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/src/main/java/dev/dennisobel/movies/MoviesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/src/main/java/dev/dennisobel/movies/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/src/main/resources/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/src/main/resources/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFramework/movies/src/test/java/dev/dennisobel/movies/MoviesApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/com/dennisobel/inheritance/BoxWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/com/dennisobel/inheritance/BoxWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dennisobel/inheritance/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dennisobel/inheritance/BoxWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dennisobel/stackheap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dennisobel/stackheap/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +64,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -69,22 +83,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/Study/Java/Spring/rest-demo/rest-demo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Admin/Documents/BootCamp/Java/OOP/src/com/dennisobel/interfaces/extendDemo2"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="InnerClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dennisobel.staticexample.InnerClasses" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\BootCamp\Java\OOP\src\com\dennisobel\interfaces\extendDemo2" />
+      <recent name="C:\Users\Admin\Documents\BootCamp\Java\OOP\src\com\dennisobel\interfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GenericArrayList">
+    <configuration name="CustomArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dennisobel.generics.CustomArrayList" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dennisobel.staticexample.*" />
+          <option name="PATTERN" value="com.dennisobel.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dennisobel.inheritance.Main" />
+    <configuration name="GenericArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dennisobel.generics.GenericArrayList" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dennisobel.inheritance.*" />
+          <option name="PATTERN" value="com.dennisobel.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dennisobel.polymorphism.ObjectPrint" />
+    <configuration name="com.dennisobel.abstractdemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dennisobel.abstractdemo.Main" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dennisobel.polymorphism.*" />
+          <option name="PATTERN" value="com.dennisobel.abstractdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dennisobel.staticexample.StaticInt" />
+    <configuration name="com.dennisobel.interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dennisobel.interfaces.Main" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dennisobel.staticexample.*" />
+          <option name="PATTERN" value="com.dennisobel.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dennisobel.polymorphism.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dennisobel.polymorphism.Main" />
+    <configuration name="com.dennisobel.interfaces.nested.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dennisobel.interfaces.nested.Main" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dennisobel.polymorphism.*" />
+          <option name="PATTERN" value="com.dennisobel.interfaces.nested.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ObjectPrint" />
-        <item itemvalue="Application.com.dennisobel.polymorphism.Main" />
-        <item itemvalue="Application.InnerClasses" />
-        <item itemvalue="Application.StaticInt" />
+        <item itemvalue="Application.GenericArrayList" />
+        <item itemvalue="Application.CustomArrayList" />
+        <item itemvalue="Application.com.dennisobel.interfaces.nested.Main" />
+        <item itemvalue="Application.com.dennisobel.interfaces.Main" />
+        <item itemvalue="Application.com.dennisobel.abstractdemo.Main" />
       </list>
     </recent_temporary>
   </component>
